@@ -1,4 +1,4 @@
-# basic-crud-query
+# Pengenalan script
 <img src="https://i.ibb.co/mtBRGVg/Dashboard-Mazer-Admin-Dashboard.png">
 script crud ini menggunakan themplate mazer (untuk costumisasi silahkan baca dokumentari dari mazer)
 silahkan gunakan script ini untuk menjadi starterpack script aplikasi mu.
