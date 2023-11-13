@@ -1,5 +1,6 @@
 #https direct
 RewriteEngine On
+RewriteRule ^$ beranda.php [L]
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
